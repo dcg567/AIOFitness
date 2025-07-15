@@ -1,5 +1,6 @@
 # AIOFitness
-AIO Fitness (iOS App)
+
+AIO Fitness is a full-featured iOS app that combines real-time form tracking, personalised workouts, nutrition planning, health monitoring, and Apple ecosystem integration
 
 The app is an all-in-one fitness solution for iOS, integrating seamlessly with Apple's ecosystem to enhance user experience.
 
