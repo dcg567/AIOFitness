@@ -30,6 +30,11 @@ Key Features:
 
 Designed for all users, AIOFitness ensures an accessible, smooth experience, fully integrated with Apple's health-focused devices like the Apple Watch.
 
+**Youtube Link to form tracker Demo**
+
+https://youtube.com/shorts/LXgb8z7qTSA?feature=share
+
+
 <img width="250" height="500" alt="IMG_1000" src="https://github.com/user-attachments/assets/330f6c31-aeca-47c7-82d4-2056e2857843" />
 <img width="250" height="500" alt="IMG_5403 2" src="https://github.com/user-attachments/assets/96f9a120-d776-424a-87f1-f82129cab523" />
 <img width="250" height="500" alt="IMG_5400 2" src="https://github.com/user-attachments/assets/95bf8fcf-518e-4b5b-946f-64e280540744" />
@@ -38,5 +43,3 @@ Designed for all users, AIOFitness ensures an accessible, smooth experience, ful
 <img width="250" height="500" alt="IMG_5402 2" src="https://github.com/user-attachments/assets/5a5fbebb-3c13-4295-aa92-a73681c521c2" />
 <img width="250" height="500" alt="signupss" src="https://github.com/user-attachments/assets/9e9b873a-66b2-4d09-97de-42aeb7519c88" />
 <img width="250" height="500" alt="loginss" src="https://github.com/user-attachments/assets/c56dcf1d-8780-42a9-a43d-251e2ceb1301" />
-<img width="250" height="500" alt="jointtrackingss" src="https://github.com/user-attachments/assets/1784756f-eb03-45f6-9fa4-2adc60daeabe" />
-
