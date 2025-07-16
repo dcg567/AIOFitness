@@ -30,5 +30,5 @@ Key Features:
 
 Designed for all users, AIOFitness ensures an accessible, smooth experience, fully integrated with Apple's health-focused devices like the Apple Watch.
 
-<img width="1170" height="2532" alt="IMG_5418" src="https://github.com/user-attachments/assets/330f6c31-aeca-47c7-82d4-2056e2857843" />
+<img width="1170" height="500" alt="IMG_1000" src="https://github.com/user-attachments/assets/330f6c31-aeca-47c7-82d4-2056e2857843" />
 
