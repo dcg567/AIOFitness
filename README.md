@@ -36,4 +36,5 @@ Designed for all users, AIOFitness ensures an accessible, smooth experience, ful
 <img width="250" height="500" alt="IMG_5400 2" src="https://github.com/user-attachments/assets/95bf8fcf-518e-4b5b-946f-64e280540744" />
 <img width="250" height="500" alt="formcheckss" src="https://github.com/user-attachments/assets/fcccb68a-46a7-4ac1-b710-d257888d89d1" />
 <img width="250" height="500" alt="workoutss" src="https://github.com/user-attachments/assets/844c30aa-d213-491c-945e-71d6a21b9031" />
+<img width="250" height="500" alt="jointtrackingss" src="https://github.com/user-attachments/assets/1784756f-eb03-45f6-9fa4-2adc60daeabe" />
 
